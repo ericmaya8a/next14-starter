@@ -1,5 +1,5 @@
 {
-  "name": "next14-starter",
+  "name": "next15-starter",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,9 +15,9 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "next": "14.2.6",
-    "react": "^18",
-    "react-dom": "^18"
+    "next": "^15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.4.0",
